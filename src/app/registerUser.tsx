@@ -9,7 +9,7 @@ import { TextInputMask } from 'react-native-masked-text';
 import { ScrollView } from 'react-native-gesture-handler';
 
 export default function RegisterUser() {
-
+ 
     // constante pra definir uma altura padrão e responsiva na view
     const statusBarHeight = Constants.statusBarHeight;
 
